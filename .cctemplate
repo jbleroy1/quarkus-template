@@ -1,0 +1,13 @@
+{
+   "metadata":{
+      "version":"1"
+   },
+   "name": "My Sample Repository",
+   "templates":[
+      {
+         "path":"/quarkus",
+         "name":"Quarkus for Cloud Run",
+         "description":"Quarkus template"
+      }
+   ]
+}
