@@ -1,0 +1,10 @@
+[
+  {
+    "repoPath": "https://github.com/jbleroy1/quarkus-template.git",
+    "directoryPath": "quarkus",
+    "templatePath": "quarkus",
+    "templateName": "Quarkus",
+    "templateLanguages": ["java"],
+    "runPlatforms": ["cloudrun"]
+  }
+]
